@@ -57,11 +57,4 @@
 
 ---
 
-GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandrebeato&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrebeato&layout=compact)
-
----
-
 ⭐ If you found something useful in my repos, consider giving it a star — it helps a lot!
