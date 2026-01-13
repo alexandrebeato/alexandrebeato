@@ -19,7 +19,7 @@
 ## Core tech stack
 
 **Backend:** .NET / ASP.NET Core, C#, Node.js, REST APIs  
-**Frontend:** Angular, Vue.js, React.js, NextJS
+**Frontend:** Angular, Vue.js, React.js, NextJS  
 **Mobile:** Flutter, React Native  
 **DevOps:** Docker, Kubernetes, Terraform, Jenkins, CI/CD, GitHub Actions / GitLab CI  
 **Databases:** PostgreSQL, MongoDB, SQL Server, MySQL, Oracle  
