@@ -10,7 +10,7 @@
 ## What I do
 
 - **Backend:** Design and build clean, maintainable APIs and services (DDD, Clean Architecture, CQRS, integrations)
-- **Frontend & Mobile:** Deliver modern web and mobile experiences (Angular, Vue, React Native/Expo, Flutter)
+- **Frontend & Mobile:** Deliver modern web and mobile experiences (Angular, Vue, React.js, NextJS, React Native/Expo, Flutter)
 - **DevOps & Cloud:** Automate delivery with containers, IaC, orchestration, and CI/CD (Docker, Kubernetes, Terraform, Jenkins/GitLab CI)
 - **AI & Automation:** Integrate AI into real products (e.g., WhatsApp customer service automation with OpenAI)
 
@@ -19,7 +19,7 @@
 ## Core tech stack
 
 **Backend:** .NET / ASP.NET Core, C#, Node.js, REST APIs  
-**Frontend:** Angular, Vue.js, (React Native / Expo)  
+**Frontend:** Angular, Vue.js, React.js, NextJS
 **Mobile:** Flutter, React Native  
 **DevOps:** Docker, Kubernetes, Terraform, Jenkins, CI/CD, GitHub Actions / GitLab CI  
 **Databases:** PostgreSQL, MongoDB, SQL Server, MySQL, Oracle  
